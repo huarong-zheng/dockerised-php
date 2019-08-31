@@ -3,14 +3,14 @@
 class YopConfig{
     //app config
 
-    // public $serverRoot = "https://openapi.yeepay.com/yop-center";
-    // public $yosServerRoot = "https://yos.yeepay.com/yop-center";
+    public $serverRoot = "https://openapi.yeepay.com/yop-center";
+    public $yosServerRoot = "https://yos.yeepay.com/yop-center";
 
     //public $serverRoot = "http://ycetest.yeepay.com:30228/yop-center";
     //public $yosServerRoot = "http://ycetest.yeepay.com:30228/yop-center";
 
-    public $serverRoot = "http://127.0.0.1:8888/yop-center";
-    public $yosServerRoot = "http://127.0.0.1:8888/yop-center";
+    //public $serverRoot = "http://127.0.0.1:8064/yop-center";
+    //public $yosServerRoot = "http://127.0.0.1:8064/yop-center";
 
     public $appKey;
     public $aesSecretKey;

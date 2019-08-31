@@ -18,7 +18,7 @@
 		  <tr>
 			  <td align="left">Upload file </td>
 		
-			<td align="left"><input type="text" size="80" name="fileURI" id="fileURI" value="D:\phpStudy\PHPTutorial\WWW\yop-api\test.jpg">  
+			<td align="left"><input type="text" size="80" name="fileURI" id="fileURI" value="pic.png">  
       	 </td></tr>
 		 
 		 
