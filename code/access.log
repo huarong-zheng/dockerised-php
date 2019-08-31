@@ -1,0 +1,2 @@
+172.18.0.1 - - [30/Aug/2019:17:35:12 +0000] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Kitematic/0.17.6 Chrome/59.0.3071.115 Electron/1.8.8 Safari/537.36"
+172.18.0.1 - - [30/Aug/2019:17:35:30 +0000] "POST /sendEnterprisereginfoadd.php HTTP/1.1" 200 66 "http://localhost:8080/enterprisereginfoadd.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.87 Safari/537.36"

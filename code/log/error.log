@@ -1,0 +1,1 @@
+2019/08/31 07:27:29 [error] 6#6: *1 open() "/code/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/upload.php"
