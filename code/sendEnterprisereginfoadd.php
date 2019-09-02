@@ -52,11 +52,11 @@ function enterprisereginfoadd(){
     $request->addParam("isOrgCodeLong", $_REQUEST['isOrgCodeLong']);
     $request->addParam("orgCodeExpiry", $_REQUEST['orgCodeExpiry']);
 
-    $request->addParam("cardNo", $_REQUEST['cardNo']);
-    $request->addParam("headBankCode", $_REQUEST['headBankCode']);
-    $request->addParam("bankCode", $_REQUEST['bankCode']);
-    $request->addParam("bankProvince", $_REQUEST['bankProvince']);
-    $request->addParam("bankCity", $_REQUEST['bankCity']);
+    // $request->addParam("cardNo", $_REQUEST['cardNo']);
+    // $request->addParam("headBankCode", $_REQUEST['headBankCode']);
+    // $request->addParam("bankCode", $_REQUEST['bankCode']);
+    // $request->addParam("bankProvince", $_REQUEST['bankProvince']);
+    // $request->addParam("bankCity", $_REQUEST['bankCity']);
     $request->addParam("productInfo", $_REQUEST['productInfo']);
     $request->addParam("fileInfo", $_REQUEST['fileInfo']);            
    // $request->addParam("businessFunction", $_REQUEST['businessFunction']);
